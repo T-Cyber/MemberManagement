@@ -11,7 +11,7 @@ namespace MemberManagement.Web.Models
     {
         public ApplicationDbContext()
             : base("DefaultConnection")
-        {
+        {  
         }
     }
 }
